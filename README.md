@@ -1,7 +1,7 @@
 # CPP---Digital-Library
 
 ## Overview
-The Digital Library Management System is designed to efficiently manage the borrowing and return of digital books for both customers and librarians. 
+The Digital Library Based on C++ Management System is designed to efficiently manage the borrowing and return of digital books for both customers and librarians. 
 It uses an object-oriented programming approach, ensuring a structured and organized system. 
 The system is built with multiple classes, each responsible for specific aspects of library operations. 
 This design allows for scalability, maintainability, and a seamless user experience.
